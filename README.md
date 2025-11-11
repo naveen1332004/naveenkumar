@@ -3,7 +3,6 @@
 🎓 **M.Sc. Data Science** | Periyar University, Salem  
 💻 **Aspiring Data Scientist** | Passionate about AI, ML, and Cloud Computing  
 🚀 Exploring data-driven solutions that make an impact.
-
 ---
 
 ## 🧠 About Me  
